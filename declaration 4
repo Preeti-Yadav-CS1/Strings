@@ -1,0 +1,46 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string str;
+    getline(cin, str);
+    cout<<str<< endl;
+
+    return 0;
+}
+
+/* input:
+preeti is a peaceful soul.
+
+output:
+preeti is a peaceful soul.
+/*
+
+METHOD WITH A PROBLEM
+
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string str;
+    cin>> str;
+    cout<<str<< endl;
+
+    return 0;
+}
+
+/*Input:
+preeti is a peaceful soul.
+
+output:
+preeti 
+/*
+
+
+
+
