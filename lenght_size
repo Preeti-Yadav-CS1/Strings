@@ -1,0 +1,24 @@
+//using size(
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s1= "nincompoop";
+    cout<<s1.size()<<endl;
+
+    return 0;
+}
+
+//using lenght
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string s1= "nincompoop";
+    cout<<s1.length()<<endl;
+
+    return 0;
+}
