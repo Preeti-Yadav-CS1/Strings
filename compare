@@ -12,3 +12,4 @@ int main()
 }
 
 //return a +ve value means s1 is greater otherwise smaller
+// if equal than return 0
