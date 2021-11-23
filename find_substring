@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string s1= "nincompoop";
+    cout<<s1.find("poo")<<endl;
+
+    return 0;
+}
+//return frist appearing index of the substring
+// 6
